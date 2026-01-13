@@ -1,5 +1,5 @@
-# Hi there👋<br><br> I'm Ayush Singh
-**About me: **<br><br>🎓 I'm a B.Tech CSE Student at IILM University<br>🎨 I am a UI/UX & Graphic Designer<br>💻 I'm currently learning Full Stack Web Development<br>📫 How to reach me: LinkedIn - @ayushsingh2992<br>⚡ Fun fact: My brain has too many tabs open
+# Hi I'm Ayush Singh
+About me: <br><br>🎓 I'm a B.Tech CSE Student at IILM University<br>🎨 I am a UI/UX & Graphic Designer<br>💻 I'm currently learning Full Stack Web Development<br>📫 How to reach me: LinkedIn - @ayushsingh2992<br>⚡ Fun fact: My brain has too many tabs open
 
 
 ## 🌐 Socials:
